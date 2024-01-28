@@ -1,0 +1,26 @@
+/* google font poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
+
+/* colors */
+:root {
+    --darkBlue: #111a28;
+    --matooBlack: #1d293a;
+    --white: #ffffff;
+    --lightGreen: #00cf5d;
+    --hotPink: #FF0075;
+    --lightGray: #bfbfbf;
+    --grayish: #999;
+    --lightGray2: #ccc;
+}
+
+/* box-shadow */
+:root{
+    --boxShadow: 0 8px 32px 0 rgba(0, 0, 0, 0.203);
+}
+
+/* center elements */
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
