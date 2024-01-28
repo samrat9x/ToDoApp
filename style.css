@@ -11,7 +11,7 @@
 body{
     user-select: none;
     min-height: 100vh;
-    background-image:url("/img/moroccan-flower.png");
+    background-image:url("img/double-bubble-outline.webp");
 }
 h1{
     text-align: center;
